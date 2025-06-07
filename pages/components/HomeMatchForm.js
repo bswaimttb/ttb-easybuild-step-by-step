@@ -6,7 +6,6 @@ import { Label } from "./ui/label";
 import { Select, SelectItem } from "./ui/select";
 import { MultiSelect } from "./ui/multiselect";
 
-
 const styleOptions = [
   "Farmhouse",
   "Modern",
