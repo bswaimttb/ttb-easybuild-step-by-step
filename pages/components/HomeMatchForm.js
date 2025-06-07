@@ -1,10 +1,11 @@
 import React, { useState } from "react";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Label } from "@/components/ui/label";
-import { Select, SelectItem } from "@/components/ui/select";
-import { MultiSelect } from "@/components/ui/multiselect";
+import { Input } from "./ui/input";
+import { Button } from "./ui/button";
+import { Card, CardContent } from "./ui/card";
+import { Label } from "./ui/label";
+import { Select, SelectItem } from "./ui/select";
+import { MultiSelect } from "./ui/multiselect";
+
 
 const styleOptions = [
   "Farmhouse",
